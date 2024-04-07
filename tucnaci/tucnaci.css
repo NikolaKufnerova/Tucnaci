@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(171, 208, 240);
+    text-align: center;
+}
+header{
+    background-image: url(./tucnak_pozadi_zahlavi.jpg);
+    width: auto;
+    height: 145px;
+}
+p[title=footer]{
+    text-align: left;
+}
+h1{
+    color:black;
+    margin-bottom: 45px;
+    border: 2px black solid;
+    margin-left: 750px;
+    margin-right: 750px;
+    background-color: rgb(180, 240, 240);
+}
+p[title=header]{
+    color:black;
+    margin-bottom: 45px;
+    border: 2px black solid;
+    margin-left: 750px;
+    margin-right: 750px;
+    background-color: rgb(134, 221, 221);
+}
+p[title=emperator]{
+    margin-bottom: 45px;
+    border: 2px black solid;
+    margin-left: 450px;
+    margin-right: 450px;
+    background-color: rgb(216, 199, 106);
+}
+p[title=lesklytucnak]{
+    margin-bottom: 45px;
+    border: 2px black solid;
+    margin-left: 450px;
+    margin-right: 450px;
+    background-color: rgb(218, 213, 191);
+}
+img{
+    width: auto;
+    height: 550px;
+}
+a{
+    text-decoration: none;
+    margin-bottom: 45px;
+    border: 2px black solid;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: rgb(180, 240, 240);
+}
+a:link{
+    color: rgb(38, 129, 120);
+}
+a:visited{
+    color: rgb(79, 173, 134);
+}
+a:focus{
+    color: black;
+}
+a:hover{
+    color: black;
+}
